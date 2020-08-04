@@ -1,0 +1,14 @@
+C:\C#\2017\WpfThreadWorker\WpfThreadWorker\obj\Debug\MainWindow.g.cs
+C:\C#\2017\WpfThreadWorker\WpfThreadWorker\obj\Debug\App.g.cs
+C:\C#\2017\WpfThreadWorker\WpfThreadWorker\obj\Debug\WpfThreadWorker_MarkupCompile.cache
+C:\C#\2017\WpfThreadWorker\WpfThreadWorker\obj\Debug\WpfThreadWorker_MarkupCompile.lref
+C:\C#\2017\WpfThreadWorker\WpfThreadWorker\bin\Debug\WpfThreadWorker.exe.config
+C:\C#\2017\WpfThreadWorker\WpfThreadWorker\bin\Debug\WpfThreadWorker.exe
+C:\C#\2017\WpfThreadWorker\WpfThreadWorker\bin\Debug\WpfThreadWorker.pdb
+C:\C#\2017\WpfThreadWorker\WpfThreadWorker\obj\Debug\MainWindow.baml
+C:\C#\2017\WpfThreadWorker\WpfThreadWorker\obj\Debug\WpfThreadWorker.g.resources
+C:\C#\2017\WpfThreadWorker\WpfThreadWorker\obj\Debug\WpfThreadWorker.Properties.Resources.resources
+C:\C#\2017\WpfThreadWorker\WpfThreadWorker\obj\Debug\WpfThreadWorker.csproj.GenerateResource.Cache
+C:\C#\2017\WpfThreadWorker\WpfThreadWorker\obj\Debug\WpfThreadWorker.exe
+C:\C#\2017\WpfThreadWorker\WpfThreadWorker\obj\Debug\WpfThreadWorker.pdb
+C:\C#\2017\WpfThreadWorker\WpfThreadWorker\obj\Debug\WpfThreadWorker.csprojResolveAssemblyReference.cache

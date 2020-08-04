@@ -1,2 +1,2 @@
 # WpfThreadWorker
-Thread example 
+Thread example by AG
